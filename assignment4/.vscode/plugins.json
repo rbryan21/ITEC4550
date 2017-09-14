@@ -1,0 +1,1 @@
+{"plugins":["cordova-plugin-whitelist","cordova-plugin-dialogs","cordova-plugin-media","cordova-plugin-file","cordova-plugin-compat","cordova-plugin-device"]}
