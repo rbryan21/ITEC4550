@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">GGC</string>
+    <string name="h_building_page_title">H Building</string>
+    <string name="about_page_title">About</string>
+    <string name="mainPageTitle">Overview - H Building</string>
+    <string name="firstFloorButtonText">1st Floor</string>
+    <string name="secondFloorButtonText">2nd Floor</string>
+    <string name="thirdFloorButtonText">3rd Floor</string>
+    <string name="campusMapButtonText">Campus Map</string>
+    <string name="aboutButtonText">About</string>
+    <string name="firstFloorTitle">First Floor</string>
+    <string name="secondFloorTitle">Second Floor</string>
+    <string name="thirdFloorTitle">Third Floor</string>
+    <string name="campusMapTitle">Campus Map</string>
+    <string name="aboutTitle">About</string>
+    <string name="aboutAuthor">By: Robert Bryan</string>
+    <string name="aboutDescription">ITEC 4550 | Created September 23rd, 2017</string>
+</resources>
