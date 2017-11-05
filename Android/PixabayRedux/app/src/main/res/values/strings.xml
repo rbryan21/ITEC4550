@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PixabayRedux</string>
+    <string name="action_about">About</string>
+    <string name="credits">Credits</string>
+    <string name="created_by">Created By Robert Bryan</string>
+    <string name="created_by_desc">ITEC 4550 Fall 2017</string>
+</resources>
