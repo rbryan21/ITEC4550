@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NinePatchButtons</string>
+    <string name="button1">Biiiiiig text!</string>
+    <string name="button2">Tiny</string>
+    <string name="button3">Wide text Wide text Wide text Wide text Wide text Wide text Wide text Wide text Wide text</string>
+    <string name="button4">Tall text Tall text Tall text</string>
+    <string name="button5">Normal text</string>
+    <string name="button6">Tall and wide text Tall and wide text Tall and wide text Tall and wide text</string>
+</resources>
